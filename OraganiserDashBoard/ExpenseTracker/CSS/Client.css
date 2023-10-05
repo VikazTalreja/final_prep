@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Fira+Sans+Condensed:ital,wght@0,400;0,700;1,300&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.Client {
+  display: flex;
+  align-items: center;
+}
+
+.ExpenseTracker {
+  width: 400px;
+  height: 650px;
+  top: 45px;
+  right: 680px;
+  position: fixed;
+  background-color: rgb(255, 255, 255);
+}
